@@ -1,26 +1,5 @@
 # CovantexSDK-XCFramework for Covantex APIs
 
-## Covantex APIs
-
-* Swagger UI
-    - Covantex
-        - Dev
-            * [API-Dev](https://api-dev.covantex.com/swagger/#/)
-            * [FD-Vendors](https://fd-vendors.covantex.com/swagger/ui/index)
-            * [FD-PCP-Dev](https://fd-pcp-dev.covantex.com/swagger/ui/index#/Physicians)
-        - Alpha 
-            * [API-Alpha](https://api-alpha.covantex.com/swagger/#/)
-        - Prod
-            * [API-Prod](https://api-dev.covantex.com/swagger/#/)
-            * [FD-Vendors](https://fd-vendors.covantex.com/swagger/ui/index)
-            * [FD-PCP-Prod](https://fd-pcp.covantex.com/swagger/ui/index#/Physicians)
-    - Ocenture
-        - Dev
-            * [API-Dev](https://api-dev-ocenture.covantex.com/swagger/#/)
-        - Alpha
-            * [API-Alpha](https://api-alpha-ocenture.covantex.com/swagger/#/)
-
-
 This repository hosts the CovantexSDK framework for iOS, macOS Catalyst as an XCFramework, distributed via Swift Package Manager (SPM) XCFramework.
 
 ## Framework Contents
@@ -79,3 +58,23 @@ rm -rf ~/Library/org.swift.swiftpm/configuration
 rm -rf ~/Library/org.swift.swiftpm/security
 ```
 - Re-fetch the package dependencies by selecting File > Packages > Reset Package Caches in Xcode.
+
+## Covantex APIs
+
+* Swagger UI
+    - Covantex
+        - Dev
+            * [API-Dev](https://api-dev.covantex.com/swagger/#/)
+            * [FD-Vendors](https://fd-vendors.covantex.com/swagger/ui/index)
+            * [FD-PCP-Dev](https://fd-pcp-dev.covantex.com/swagger/ui/index#/Physicians)
+        - Alpha 
+            * [API-Alpha](https://api-alpha.covantex.com/swagger/#/)
+        - Prod
+            * [API-Prod](https://api-dev.covantex.com/swagger/#/)
+            * [FD-Vendors](https://fd-vendors.covantex.com/swagger/ui/index)
+            * [FD-PCP-Prod](https://fd-pcp.covantex.com/swagger/ui/index#/Physicians)
+    - Ocenture
+        - Dev
+            * [API-Dev](https://api-dev-ocenture.covantex.com/swagger/#/)
+        - Alpha
+            * [API-Alpha](https://api-alpha-ocenture.covantex.com/swagger/#/)
