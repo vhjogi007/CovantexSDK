@@ -16,7 +16,7 @@ The XCFramework is created by combining multiple architectures to support variou
   - `ios-arm64_x86_64-maccatalyst`
   
 ## Requirements
-- **Xcode**: Version 16.0 or later
+- **Xcode**: Version 16.1 or later
 - **Swift**: Version 6.0 || Version 5.10 or later
 
 ## Integration via Swift Package Manager
