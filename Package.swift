@@ -20,7 +20,7 @@ let package = Package(
 		.binaryTarget(
 			name: "CovantexSDK",
 			url: "https://github.com/parmar-mehul/CovantexSDK/releases/download/1.0.0/CovantexSDK.xcframework.zip",
-			checksum: "fb0ade51ec72ae6b8b58db5535e02c4c120028e0ceaa289bce99aec3993377a4"
+			checksum: "295b3c44bcfaf8862b6a566705a553efa890e179e151c0b4ad62d740791ad84f"
 		),
 		.target(
 			name: "CovantexFrameworkWrapper",
