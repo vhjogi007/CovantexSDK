@@ -19,8 +19,8 @@ let package = Package(
 	targets: [
 		.binaryTarget(
 			name: "CovantexSDK",
-			url: "https://github.com/vhjogi007/CovantexSDK/releases/download/1.0.3/CovantexSDK.xcframework.zip",
-			checksum: "28796abfa18f9aab37ba61553eb597ed286feea0767321b38d993244a9838570"
+			url: "https://github.com/vhjogi007/CovantexSDK/releases/download/1.0.4/CovantexSDK.xcframework.zip",
+			checksum: "0c3056a0a9002ac4abdf74736a19221ede3ddca41b65848254ae5e3345467b70"
 		),
 		.target(
 			name: "CovantexFrameworkWrapper",
